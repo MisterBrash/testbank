@@ -1,8 +1,6 @@
 # Markup
 ## Something I should learn
 
-It's pretty *awesome*
-
 You can __bold__ things and also *emphasize* them.
 
 Insert `code` and other things.
